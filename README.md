@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Deepak Yerram</h1>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python, JavaScript, Generative AI**
 
-- 📫 How to reach me **Deepakofficial@gmail.com**
+- 📫 How to reach me **yerramdeepakj2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
